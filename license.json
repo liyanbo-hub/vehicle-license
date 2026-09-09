@@ -1,17 +1,17 @@
 {
     "users":[
         {
-            "name":"管理员电脑",
+            "name":"电脑1",
             "device":"242190097730163",
             "status":"active"
         },
         {
-            "name":"测试电脑",
+            "name":"电脑2",
             "device":"211365439264455",
             "status":"active"
-        }
-         {
-            "name":"测试电脑",
+        },
+        {
+            "name":"电脑3",
             "device":"913186459079",
             "status":"active"
         }
