@@ -1,1 +1,30 @@
+{
+  "schema": 2,
+  "payload": {
+    "revision": 2,
+    "generated_at": "2026-09-10T16:38:09Z",
+    "valid_until": "2026-10-15T16:38:09Z",
+    "builds": [
+      "ffebb6a0305ec08d6f1225a6d113c48d99da5132532d21cb1e97b3f49800224d"
+    ],
+    "users": [
+      {
+        "name": "用户2",
+        "device": "211365439264455",
+        "status": "active"
+      },
+      {
+        "name": "用户1",
+        "device": "242190097730163",
+        "status": "active"
+      },
+      {
+        "name": "用户3",
+        "device": "913186459079",
+        "status": "active"
+      }
+    ]
+  },
+  "signature": "SKhe2/Ce3CIvzidWQq87/YMu+NF+t8Dv1qBNi+5SZ/h5SRRdy0dfriFh3HkXMooAt8N2cmL58xoxdF7DGbqPCQ=="
+}
 
