@@ -1,11 +1,11 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 2,
-    "generated_at": "2026-09-10T16:38:09Z",
-    "valid_until": "2026-10-15T16:38:09Z",
+    "revision": 3,
+    "generated_at": "2026-09-10T23:40:07Z",
+    "valid_until": "2026-10-15T23:40:07Z",
     "builds": [
-      "ffebb6a0305ec08d6f1225a6d113c48d99da5132532d21cb1e97b3f49800224d"
+      "e07aa9e1349a0848ffc770f1222b0058f029692e8270f040ebbd45622276d1d0"
     ],
     "users": [
       {
@@ -25,6 +25,5 @@
       }
     ]
   },
-  "signature": "SKhe2/Ce3CIvzidWQq87/YMu+NF+t8Dv1qBNi+5SZ/h5SRRdy0dfriFh3HkXMooAt8N2cmL58xoxdF7DGbqPCQ=="
+  "signature": "fd0e3q0OEp6iM+ulrqI9l5dKXF9RQ7jegYhsdZkIvTfu1VnjRpA4JBUIOgIzy5JXFxBim5lFMCyQrhWBg3kAAA=="
 }
-
