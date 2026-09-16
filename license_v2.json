@@ -1,11 +1,11 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 3,
-    "generated_at": "2026-09-10T23:40:07Z",
-    "valid_until": "2026-10-15T23:40:07Z",
+    "revision": 8,
+    "generated_at": "2026-09-16T01:06:42Z",
+    "valid_until": "2026-10-21T01:06:42Z",
     "builds": [
-      "e07aa9e1349a0848ffc770f1222b0058f029692e8270f040ebbd45622276d1d0"
+      "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30"
     ],
     "users": [
       {
@@ -19,11 +19,21 @@
         "status": "active"
       },
       {
+        "name": "32",
+        "device": "83383173261183",
+        "status": "active"
+      },
+      {
         "name": "用户3",
         "device": "913186459079",
+        "status": "active"
+      },
+      {
+        "name": "；；；",
+        "device": "ddjadhhads",
         "status": "active"
       }
     ]
   },
-  "signature": "fd0e3q0OEp6iM+ulrqI9l5dKXF9RQ7jegYhsdZkIvTfu1VnjRpA4JBUIOgIzy5JXFxBim5lFMCyQrhWBg3kAAA=="
+  "signature": "BCHjuBw3IWu/UJpexk2whZuxr82t4PjbDcuMaGoREbFUwrhS47WXH3Q/361sOh7fcTng0hPvSnK9YFrEjS9sDQ=="
 }
