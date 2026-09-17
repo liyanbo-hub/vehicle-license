@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 13,
-    "generated_at": "2026-09-17T01:57:41Z",
-    "valid_until": "2026-10-22T01:57:41Z",
+    "revision": 15,
+    "generated_at": "2026-09-17T03:58:58Z",
+    "valid_until": "2026-10-22T03:58:58Z",
     "builds": [
       "3c6ab4c8abce2244d5b307667c5ab3b4fb322c20cf87e701de1178497ebd6102",
       "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30"
@@ -35,11 +35,16 @@
         "status": "active"
       },
       {
+        "name": "3",
+        "device": "d",
+        "status": "active"
+      },
+      {
         "name": "；；；",
         "device": "ddjadhhads",
         "status": "active"
       }
     ]
   },
-  "signature": "IjdzOw7iPbdxxXhbmJjvRLZJdpNokklrHtMGynN0y7FBgCA0limTG9uPXxbkY60/VcV2WpXb2FWzbN7wEKvACg=="
+  "signature": "O5I70rIDrTZOpPSzcO+WC8bkUNIw0yddUv0YGe114DeL9ybpdLZqUrX69TXgkq2MnTJtPnOzfLLD8RJEEBpZAw=="
 }
