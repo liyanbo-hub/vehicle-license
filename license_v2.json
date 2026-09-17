@@ -1,18 +1,22 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 11,
-    "generated_at": "2026-09-17T00:44:55Z",
-    "valid_until": "2026-10-22T00:44:55Z",
+    "revision": 13,
+    "generated_at": "2026-09-17T01:57:41Z",
+    "valid_until": "2026-10-22T01:57:41Z",
     "builds": [
       "3c6ab4c8abce2244d5b307667c5ab3b4fb322c20cf87e701de1178497ebd6102",
-      "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30",
-      "d9f8271990b2bf8df3a72a3b955461df760716d914257011131e3c73ab376303"
+      "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30"
     ],
     "users": [
       {
-        "name": "用户2",
+        "name": "yuan",
         "device": "211365439264455",
+        "status": "active"
+      },
+      {
+        "name": "yuan",
+        "device": "211465439264455",
         "status": "active"
       },
       {
@@ -37,5 +41,5 @@
       }
     ]
   },
-  "signature": "xMc03di3Dx0L+wazVmOF9j+H4WzHrt6qnt6rIkotPaDBS5V/ve9jDCMud4SbPEHt3UqLZJKyZ0qdWouYSP08BA=="
+  "signature": "IjdzOw7iPbdxxXhbmJjvRLZJdpNokklrHtMGynN0y7FBgCA0limTG9uPXxbkY60/VcV2WpXb2FWzbN7wEKvACg=="
 }
