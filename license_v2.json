@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 28,
-    "generated_at": "2026-09-17T09:10:50Z",
-    "valid_until": "2026-10-22T09:10:50Z",
+    "revision": 29,
+    "generated_at": "2026-09-18T00:26:54Z",
+    "valid_until": "2026-10-23T00:26:54Z",
     "builds": [
       "3c6ab4c8abce2244d5b307667c5ab3b4fb322c20cf87e701de1178497ebd6102",
       "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30",
@@ -11,6 +11,11 @@
       "4f71a36ef9669a8a61cea4f4a64d9569eed69bd1858a2ef4fc16bbe034960b6d"
     ],
     "users": [
+      {
+        "name": "x13yuan",
+        "device": "211365439264455",
+        "status": "active"
+      },
       {
         "name": "T14S zxy",
         "device": "231447947480852",
@@ -23,5 +28,5 @@
       }
     ]
   },
-  "signature": "oumZH3INFSHDgAans8HNljr4W/DZaSzQLK0XOgLozBL09juhrzMVrUV+cH2ZUZHntBcRbM5nhyEBIs+8nupSAA=="
+  "signature": "potIFw19C+exQQlpg9/4P8Th4BVLiX1sGH91TjGFZ6eWOlNJ66i9wEJxcuXr5xmpJeNtnd0zN4hdiFA+XqpvCQ=="
 }
