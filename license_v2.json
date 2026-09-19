@@ -1,11 +1,12 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 7,
-    "generated_at": "2026-09-19T06:47:40Z",
-    "valid_until": "2026-10-24T06:47:40Z",
+    "revision": 8,
+    "generated_at": "2026-09-19T13:00:42Z",
+    "valid_until": "2026-10-24T13:00:42Z",
     "builds": [
-      "f46603498e40e76bc5dfd834c8f15147d92f266371bd95a7926915812f4fc5d1"
+      "f46603498e40e76bc5dfd834c8f15147d92f266371bd95a7926915812f4fc5d1",
+      "e92f59c4b30d426c99ed62ce198cdb6da98aa8b6fbea32102b72d6005acf3206"
     ],
     "users": [
       {
@@ -25,5 +26,5 @@
       }
     ]
   },
-  "signature": "E3fPMBdrEZPVbk7BqgmBC8aVGDXleiIougxhUqJCWMHsAHKCTjiAdQQPxY6ScYI97544zdb8undhlsPa0jpsDg=="
+  "signature": "y09jAm/jAX8tsgxERVgF5rHDn9SiAdx9mFs1WmWO7hkZT9VxEA1eigEqo7wmyCRQb++ikFgN46O86S8cZDbqDQ=="
 }
