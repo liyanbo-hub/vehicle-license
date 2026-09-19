@@ -1,13 +1,18 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 6,
-    "generated_at": "2026-09-19T05:10:01Z",
-    "valid_until": "2026-10-24T05:10:01Z",
+    "revision": 7,
+    "generated_at": "2026-09-19T06:47:40Z",
+    "valid_until": "2026-10-24T06:47:40Z",
     "builds": [
       "f46603498e40e76bc5dfd834c8f15147d92f266371bd95a7926915812f4fc5d1"
     ],
     "users": [
+      {
+        "name": "t14 lyb",
+        "device": "152107784455412",
+        "status": "active"
+      },
       {
         "name": "x13 yuan",
         "device": "211365439264455",
@@ -20,5 +25,5 @@
       }
     ]
   },
-  "signature": "bBcfeCLqrxWVMar0p4ALjfZLMlshWBrpL65knngpe7JjKamXcukTZuLeQoj8IzXEB9m/d6/pjAmKI/bA0e3sBg=="
+  "signature": "E3fPMBdrEZPVbk7BqgmBC8aVGDXleiIougxhUqJCWMHsAHKCTjiAdQQPxY6ScYI97544zdb8undhlsPa0jpsDg=="
 }
