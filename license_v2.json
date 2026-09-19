@@ -1,10 +1,12 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 4,
-    "generated_at": "2026-09-19T03:11:29Z",
-    "valid_until": "2026-10-24T03:11:29Z",
-    "builds": [],
+    "revision": 5,
+    "generated_at": "2026-09-19T03:16:59Z",
+    "valid_until": "2026-10-24T03:16:59Z",
+    "builds": [
+      "f46603498e40e76bc5dfd834c8f15147d92f266371bd95a7926915812f4fc5d1"
+    ],
     "users": [
       {
         "name": "chaoji",
@@ -13,5 +15,5 @@
       }
     ]
   },
-  "signature": "Jv+ToGDxhSTXPwMBGzqQf6Pxh6Ap4MaEUjbGCxfz7OD0LhJD8caEwKXwQ1an2UmccDRWnLBc3aEpEx8oMkA3Dg=="
+  "signature": "PHvoelvT4X5GQKei/wXGn61yT0qKQ7PJo29YB4Ataz+h/vvvVVYz6FM45G9NjYhWSrLdY36uDxXz0E/WnhrsAg=="
 }
