@@ -1,9 +1,9 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 31,
-    "generated_at": "2026-09-18T01:02:49Z",
-    "valid_until": "2026-10-23T01:02:49Z",
+    "revision": 32,
+    "generated_at": "2026-09-19T00:37:54Z",
+    "valid_until": "2026-10-24T00:37:54Z",
     "builds": [
       "3c6ab4c8abce2244d5b307667c5ab3b4fb322c20cf87e701de1178497ebd6102",
       "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30",
@@ -14,6 +14,11 @@
       {
         "name": "zxy2",
         "device": "142805872697849",
+        "status": "active"
+      },
+      {
+        "name": "xxxx",
+        "device": "208250323512543",
         "status": "active"
       },
       {
@@ -38,5 +43,5 @@
       }
     ]
   },
-  "signature": "9RrqO5bA97y/Thmh/RnX020jSxe3MJNXGx1wfjATbRQsvhiL6Uy3EY+/Tp8nhe1rtg9DL0yi0RvnL1XjTsCcAw=="
+  "signature": "BXmLlcQbwV87UrO2NCTIFwRSoH01B3uux5jDlAvO/cJ6bn62Dc6U9datzxya39qhX366hSuygbJIuy5pS418Dg=="
 }
