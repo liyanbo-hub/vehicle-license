@@ -1,47 +1,11 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 32,
-    "generated_at": "2026-09-19T00:37:54Z",
-    "valid_until": "2026-10-24T00:37:54Z",
-    "builds": [
-      "3c6ab4c8abce2244d5b307667c5ab3b4fb322c20cf87e701de1178497ebd6102",
-      "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30",
-      "d9f8271990b2bf8df3a72a3b955461df760716d914257011131e3c73ab376303",
-      "4f71a36ef9669a8a61cea4f4a64d9569eed69bd1858a2ef4fc16bbe034960b6d"
-    ],
-    "users": [
-      {
-        "name": "zxy2",
-        "device": "142805872697849",
-        "status": "active"
-      },
-      {
-        "name": "xxxx",
-        "device": "208250323512543",
-        "status": "active"
-      },
-      {
-        "name": "x13yuan",
-        "device": "211365439264455",
-        "status": "active"
-      },
-      {
-        "name": "T14S zxy",
-        "device": "231447947480852",
-        "status": "active"
-      },
-      {
-        "name": "chaoji",
-        "device": "242190097730163",
-        "status": "active"
-      },
-      {
-        "name": "zxy zj",
-        "device": "913186459079",
-        "status": "active"
-      }
-    ]
+    "revision": 1,
+    "generated_at": "2026-09-19T02:48:21Z",
+    "valid_until": "2026-10-24T02:48:21Z",
+    "builds": [],
+    "users": []
   },
-  "signature": "BXmLlcQbwV87UrO2NCTIFwRSoH01B3uux5jDlAvO/cJ6bn62Dc6U9datzxya39qhX366hSuygbJIuy5pS418Dg=="
+  "signature": "Qpy9zKaYov7iyPoztL95r1813fUg1zsaK83/OXAYFH/ZTbBz2js8wHA7XFrjn18Cce1PsctjNW/6qxCH+RlxBA=="
 }
