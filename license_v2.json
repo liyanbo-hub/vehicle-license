@@ -1,13 +1,18 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 5,
-    "generated_at": "2026-09-19T03:16:59Z",
-    "valid_until": "2026-10-24T03:16:59Z",
+    "revision": 6,
+    "generated_at": "2026-09-19T05:10:01Z",
+    "valid_until": "2026-10-24T05:10:01Z",
     "builds": [
       "f46603498e40e76bc5dfd834c8f15147d92f266371bd95a7926915812f4fc5d1"
     ],
     "users": [
+      {
+        "name": "x13 yuan",
+        "device": "211365439264455",
+        "status": "active"
+      },
       {
         "name": "chaoji",
         "device": "242190097730163",
@@ -15,5 +20,5 @@
       }
     ]
   },
-  "signature": "PHvoelvT4X5GQKei/wXGn61yT0qKQ7PJo29YB4Ataz+h/vvvVVYz6FM45G9NjYhWSrLdY36uDxXz0E/WnhrsAg=="
+  "signature": "bBcfeCLqrxWVMar0p4ALjfZLMlshWBrpL65knngpe7JjKamXcukTZuLeQoj8IzXEB9m/d6/pjAmKI/bA0e3sBg=="
 }
