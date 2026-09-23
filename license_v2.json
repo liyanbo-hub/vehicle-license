@@ -1,31 +1,13 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 9,
-    "generated_at": "2026-09-19T13:06:47Z",
-    "valid_until": "2026-10-24T13:06:47Z",
+    "revision": 1,
+    "generated_at": "2026-09-23T09:30:47Z",
+    "valid_until": "2026-10-28T09:30:47Z",
     "builds": [
-      "f46603498e40e76bc5dfd834c8f15147d92f266371bd95a7926915812f4fc5d1",
-      "e92f59c4b30d426c99ed62ce198cdb6da98aa8b6fbea32102b72d6005acf3206",
       "cb2c32a77fdfe82c88589aa354921de7b812640c1433dfed3ab89ca159771f27"
     ],
-    "users": [
-      {
-        "name": "t14 lyb",
-        "device": "152107784455412",
-        "status": "active"
-      },
-      {
-        "name": "x13 yuan",
-        "device": "211365439264455",
-        "status": "active"
-      },
-      {
-        "name": "chaoji",
-        "device": "242190097730163",
-        "status": "active"
-      }
-    ]
+    "users": []
   },
-  "signature": "BpMS8YGJLLhuEFDT4YcfmrdDN0sR/6K9LgiYUdYfQWdYSpoPdJlxJ13+MLAM0jANZxHYefwE89tnn2B76MtcBg=="
+  "signature": "z7+X/gjUdZumuCPd6+FzLodXfAPPfVnH6Iwmr/n0tHgsyubPKD0+k7YPFyjgyCFMIo57TtzYvcLApajV+VjXCA=="
 }
