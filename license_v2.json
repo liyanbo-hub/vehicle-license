@@ -1,16 +1,32 @@
 {
   "schema": 2,
   "payload": {
-    "revision": 5,
-    "generated_at": "2026-09-23T09:58:57Z",
-    "valid_until": "2026-10-28T09:58:57Z",
+    "revision": 31,
+    "generated_at": "2026-09-24T00:38:43Z",
+    "valid_until": "2026-10-29T00:38:43Z",
     "builds": [
-      "cb2c32a77fdfe82c88589aa354921de7b812640c1433dfed3ab89ca159771f27",
-      "adb071a1cc9c6634671c9eed257b415773d95c6b7cd87aa3ac72425046c591f3",
-      "4a4fd8e212f533f1651374074fb8b85e4bc8c3403f045eb0dba361913f5c790f",
-      "c77ed044f7409381b7c17cc8d8818400cac863f90f187b5f65ffc56261680517"
+      "3c6ab4c8abce2244d5b307667c5ab3b4fb322c20cf87e701de1178497ebd6102",
+      "01de2919cb2f8ffa03767c55be583877d791b440141ac3f88f923d976c19aa30",
+      "d9f8271990b2bf8df3a72a3b955461df760716d914257011131e3c73ab376303",
+      "4f71a36ef9669a8a61cea4f4a64d9569eed69bd1858a2ef4fc16bbe034960b6d",
+      "f87b0d5d4053af40d67b5bd5cd9c80f7649415002b22db996762dea62d5d8231"
     ],
     "users": [
+      {
+        "name": "zxy2",
+        "device": "142805872697849",
+        "status": "active"
+      },
+      {
+        "name": "x13yuan",
+        "device": "211365439264455",
+        "status": "active"
+      },
+      {
+        "name": "T14S zxy",
+        "device": "231447947480852",
+        "status": "active"
+      },
       {
         "name": "chaoji",
         "device": "242190097730163",
@@ -18,5 +34,5 @@
       }
     ]
   },
-  "signature": "uTt+2mHS/6wrjymI6xhyAfyooM1bqDpPONduWM3HxncytfA/9Y71XvnP0e18UOT77StOpk7fDtyyWjtG7whkCA=="
+  "signature": "ma5UXeOPvuzaWsMCbJt1ESZ/pwSwgqhtIVfhhpfQJOXthDo5WZ46oXCSthq3R26g4iHD9zDqf4O2rUv3wbnRAA=="
 }
